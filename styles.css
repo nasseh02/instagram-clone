@@ -1,0 +1,79 @@
+textarea {
+    
+    height: 702px;
+    width: 625px;
+    
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    height: 1000px;
+    
+}
+
+.far-left {
+    display: inline-block; 
+   
+        
+}
+
+#Search {
+    width: 50%;
+    display: inline-block;
+    
+}
+
+.far-left a {
+    margin-left: 10px;
+}
+
+.navbar {
+   padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar input {
+    
+    
+    
+}
+
+.finalPost {
+    
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    
+}
+
+.image-container {
+    width:100%;
+    max-height: 700px;
+    overflow: hidden;
+}
+
+.postHeader {
+    width: 100%;
+    height: 50px;
+    background-color: white;
+   
+}
+
+.postHeader p {
+display: inline-block;
+    margin-left: 20px;
+    
+}
+
+.img-thumnail {
+    width:200px;
+    height: 200px;
+    
+}
+
+.profile h1 {
+    display: inline-block;
+    
+}
